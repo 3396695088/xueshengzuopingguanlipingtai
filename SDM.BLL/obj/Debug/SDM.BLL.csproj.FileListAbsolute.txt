@@ -1,0 +1,11 @@
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.BLL.dll
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.BLL.pdb
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.DAT.dll
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.Model.dll
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.DAT.pdb
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\bin\Debug\SDM.Model.pdb
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\obj\Debug\SDM.BLL.csproj.AssemblyReference.cache
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\obj\Debug\SDM.BLL.csproj.CoreCompileInputs.cache
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\obj\Debug\SDM.BLL.csproj.CopyComplete
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\obj\Debug\SDM.BLL.dll
+D:\360安全浏览器下载\管理信息系统实验\StudentShow\SDM.BLL\obj\Debug\SDM.BLL.pdb
